@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"akademis"},{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"com.mycompany.mavenproject1"}];updateSearchResults();
